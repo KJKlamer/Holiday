@@ -7,6 +7,10 @@ body {
     min-width:220px;
     min-height:80px;
     font-size: 80px;
+    text-shadow: -2px 2px 0 #000,
+                          2px 2px 0 #000,
+                         2px -2px 0 #000,
+                        -2px -2px 0 #000;
     text-align: center;
     background-image: url(images/july4thbackground.jpg);
     background-size: cover;
